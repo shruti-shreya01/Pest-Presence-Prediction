@@ -25,6 +25,7 @@ The dataset used for training and evaluating the model includes the following fe
 
 ## Features
 
+- The zip file contains the results of code performed. It contains the correlation csv and heatmaps, stepwise regression plots and actual vs predicted plots
 - Multiple machine learning models were explored such as Gradient Boosting, Multilayer Perceptron, Random Forest Regressor.
 - The model was tailored for each disease to enhance prediction accuracy.
 - Currently, the model is implemented for five diseases related to rice crops in Telangana.
